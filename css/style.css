@@ -135,6 +135,12 @@ img{
     transform: skewY(-3deg);
 }
 
+/* Stats */
+
+.stats{
+    padding-top: 100px;
+}
+
 
 /* Utilities */
 .container{
