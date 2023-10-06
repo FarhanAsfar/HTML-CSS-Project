@@ -1,1 +1,1 @@
-Created basic web page using HTML and CSS.
+Created a basic web page using HTML and CSS.
