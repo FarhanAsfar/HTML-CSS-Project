@@ -1,4 +1,4 @@
-Created a basic web page using HTML and CSS.
+Created a basic web page using only HTML and CSS.
 
 <a href="https://farhanasfar.github.io/HTML-CSS-Project/" target="_blank">Webpage Link</a>
 
